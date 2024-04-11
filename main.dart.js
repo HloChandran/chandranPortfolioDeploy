@@ -48981,7 +48981,7 @@ return new A.aY(1/0,s,new A.iV(this.GS(a,A.aw(a,s,t.w).w.a.a*0.8),q,r,s),s)},
 GS(a,b){var s=null,r=t.p,q=A.dL(A.a([A.bb("Productive ,\n   Experienced",s,s,s,A.cU().$4$fontSize$fontWeight$height$letterSpacing(18,B.as,1.8,2),s,s),A.fa(s,A.fB(A.bb("DOWNLOAD CV",s,s,s,A.cU().$3$color$fontSize$fontWeight(B.aT,16,B.as),s,s),B.aM,s,s,s,s),B.T,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ajB(),s,s,s,s,s,s)],r),B.x,B.hr,B.t),p=A.bb("What I Do?",s,s,s,A.cU().$3$fontSize$fontWeight$height(35,B.as,1.3),s,s),o=A.bb("I may not be perfect, but I'm surely of some help",s,s,s,A.cU().$2$color$fontSize(B.dq,14),s,s),n=A.aw(a,s,t.w).w.a.a>=1200?140:70
 return A.wi(B.bF,s,s,s,s,A.cI(A.a([q,B.c8,p,B.i8,o,new A.aY(s,n,s,s),A.q3(new A.ajC(this)),B.l2,A.ba(B.J,new A.ib(new A.ajD(a),s),B.j,s,s,s,s,s,s,s,s)],r),B.x,B.K,B.t),!1,s,s,!1,1,s,s,s,b,s,s,b,s,!0,!1)}}
 A.ajB.prototype={
-$0(){A.he("https://github.com/AgnelSelvan/AgnelSelvan.github.io/raw/main/assets/files/Agnel-Selvan.pdf")},
+$0(){A.he("https://hlochandran.github.io/chandranPortfolioDeploy/chandranflutterdeveloper.pdf")},
 $S:0}
 A.ajC.prototype={
 $3(a,b,c){var s=this.a.c,r=A.T(s).h("M<1,d1>")
